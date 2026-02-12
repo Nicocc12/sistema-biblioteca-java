@@ -1,5 +1,5 @@
 Sistema de Gestión de Biblioteca - "Saber y Futuro" 📚
-Descripción del Proyecto
+
 Este sistema fue desarrollado para digitalizar los procesos de la biblioteca "Saber y Futuro", migrando la gestión de socios, libros y préstamos desde cuadernos físicos y planillas de Excel a una aplicación de escritorio centralizada. El software permite administrar de forma eficiente el catálogo y garantiza el cumplimiento de las políticas de préstamo de la institución.
 
 🚀 Características Principales
